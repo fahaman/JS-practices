@@ -1,0 +1,21 @@
+{
+  "name": "js-practices",
+  "version": "1.0.0",
+  "description": "A mini practice project for JavaScript.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "practice",
+    "utilities"
+  ],
+  "author": "Fahaman",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.0"
+  }
+}
